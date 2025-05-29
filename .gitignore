@@ -1,0 +1,16 @@
+
+
+# Ignore backend build files
+Email-Assistant/target/
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
